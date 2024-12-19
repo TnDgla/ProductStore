@@ -145,10 +145,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Design the product schema in MongoDB.
      - **Reading:** [MongoDB Schema Design](https://www.mongodb.com/docs/manual/data-modeling/)
-     - **Video:** [Designing Schemas](https://www.youtube.com/watch?v=3yqDxhR2XxE)
+     - **Video:** [Designing Schemas](https://www.youtube.com/watch?v=J6mDkcqU_ZE&t=108s)
   2. Create APIs for CRUD operations on products.
      - **Reading:** [Express CRUD Guide](https://expressjs.com/en/starter/basic-routing.html)
-     - **Video:** [CRUD Operations](https://www.youtube.com/watch?v=3xRMUDC74Cw)
+     - **Video:** [CRUD Operations](https://www.youtube.com/watch?v=_7UQPve99r4&t=1s)
 
 - **Deliverables:**
   - Functional product management APIs.
