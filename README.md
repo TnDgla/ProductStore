@@ -174,11 +174,11 @@ This project is structured to ensure a systematic and incremental development pr
 - **Goal:** Add search and filter functionality to enhance user experience.
 - **Tasks:**
   1. Implement search by product name or category.
-     - **Reading:** [React Search Implementation](https://react.dev/reference/react-dom/components/form)
+     - **Reading:** [React Search Implementation](https://dev.to/alais29dev/building-a-real-time-search-filter-in-react-a-step-by-step-guide-3lmm)
      - **Video:** [Building Search Features](https://www.youtube.com/watch?v=Objl-IGpM98)
   2. Add filters for price range and categories.
      - **Reading:** [React Filter Components](https://reactjs.org/docs/components-and-props.html)
-     - **Video:** [Filter Implementation](https://www.youtube.com/watch?v=CwAr9cUJA6A)
+     - **Video:** [Filter Implementation](https://www.youtube.com/watch?v=Y9qpEa0oqcs)
 
 - **Deliverables:**
   - Enhanced product browsing experience with search and filters.
